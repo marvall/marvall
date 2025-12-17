@@ -1,38 +1,64 @@
-### Hi there, I'm Yaroslav. 
+## Hi, I'm Yaroslav 👋  
+**Web Developer | JavaScript • React • Node.js**
 
-<!--
-**marvall/marvall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build modern web applications focused on real business needs, clean architecture, and long-term maintainability.
 
-Here are some ideas to get you started:
+I work with both custom solutions and reusable templates, helping businesses turn ideas into structured, scalable digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
--->
-- 🔭 I’m currently working on <b>my pet-projects</b>
-- 🌱 I’m currently learning <b>JS</b>, <b>React</b>, <b>Node.js</b>
-- 👯 I want to cooperate with an <b>initiative team</b>. Or ready to join an <b>opensourse project</b>.
-- 🤔 I’m looking for help with <b>new technologies</b> for me.
-- 💬 Ask me about anything. And if I can help you, <b>I do it</b>. 
-- 📫 How to reach me: marvallua@gmail.com, t.me/marvall
+### 🧠 What I focus on
+- Business-oriented web applications
+- Clear system architecture and predictable development
+- Clean, maintainable code without overengineering
+- Step-by-step product growth instead of bloated MVPs
 
-<img align="left" alt="JavaScript" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/js.png" />
-<img align="left" alt="Node.js" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/node.png" />
-<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/html.png" />
-<img align="left" alt="CSS3" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/css.png" />
-<img align="left" alt="Sass" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/sass.png" />
-<img align="left" alt="webpack" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/webpack.png" />
-<img alt="babel" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/babel.png" />
-<img align="left" alt="Git" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/git.png" />
-<img align="left" alt="GitHub" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/github.png" />
-<img align="left" alt="Terminal" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/consol.png" />
-<img align="left" alt="Visual Studio Code" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/vsc.png" />
-<img align="left" alt="Firebase" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/firebase.png" />
-<img align="left" alt="Handlebars" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/handlebars.png" />
-<img alt="jQuery" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/jquery.png" />
+---
+
+### 🛠 Tech stack
+**Core**
+- JavaScript (ES6+)
+- React
+- Node.js
+
+**Frontend**
+- HTML5, CSS3, Sass
+- Webpack, Babel
+- Responsive & accessible UI
+
+**Backend / Services**
+- REST APIs
+- Firebase
+- Basic PHP for integrations and automation
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Linux / Terminal
+
+---
+
+### 🚀 Current work
+- Developing personal and commercial web projects
+- Building reusable templates for common business tasks
+- Improving existing systems and refactoring legacy code
+
+---
+
+### 🤝 Collaboration
+I’m open to:
+- Long-term collaboration with teams and founders
+- Joining open-source projects with real-world impact
+- Discussing product ideas and technical solutions
+
+---
+
+### 📫 Contact
+- Email: **marvallua@gmail.com**
+- Telegram: **https://t.me/marvall**
+- GitHub: **https://github.com/marvall**
+
+---
+
+> I believe good software is built through understanding, transparency, and thoughtful engineering.
+
