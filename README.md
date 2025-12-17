@@ -15,26 +15,62 @@ I work with both custom solutions and reusable templates, helping businesses tur
 
 ---
 
-### 🛠 Tech stack
-**Core**
-- JavaScript (ES6+)
-- React
-- Node.js
+## 🛠 Tech Stack
 
-**Frontend**
-- HTML5, CSS3, Sass
-- Webpack, Babel
-- Responsive & accessible UI
+### ⚙️ Core Stack (Primary)
+Technologies I use most often in production projects:
 
-**Backend / Services**
-- REST APIs
-- Firebase
-- Basic PHP for integrations and automation
+- **JavaScript (ES6+)**
+- **Vue.js / React**
+- **Node.js**
+- **Nginx**
+- **Docker**
+- **MySQL**
 
-**Tools**
-- Git & GitHub
-- VS Code
-- Linux / Terminal
+This stack covers the majority of modern web applications — from client-side interfaces to backend services and deployment.
+
+---
+
+### 🧩 Backend & Server-side
+Used depending on project requirements and architecture:
+
+- **Node.js** — main backend runtime
+- **PHP** — integrations, automation scripts, legacy systems
+- **Python** — background tasks, data processing, custom services
+
+---
+
+### 🗄 Databases
+Experience working with both relational and non-relational databases:
+
+- **SQL**: MySQL, PostgreSQL  
+- **NoSQL**: document-oriented and key-value databases
+
+For mid-size and scalable systems:
+- **PostgreSQL + Hasura**
+- **GraphQL APIs** for flexible and efficient data access
+
+---
+
+### 🔐 Infrastructure & DevOps
+Comfortable working with server environments and security basics:
+
+- **Linux server administration**
+- **Nginx configuration**
+- **Dockerized environments**
+- **Firewall configuration and basic security hardening**
+
+---
+
+### 🧰 Tools & Workflow
+- **Git & GitHub**
+- **VS Code**
+- **Terminal / CLI**
+
+---
+
+### 🧠 Approach
+I choose technologies based on project complexity, scalability, and long-term maintainability — not trends.
 
 ---
 
